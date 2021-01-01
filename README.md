@@ -1,4 +1,4 @@
-# Facebook in time & space
+# Facebook in time & space [![CodeFactor](https://www.codefactor.io/repository/github/alihaiderrizvi/facebook-in-time-and-space/badge)](https://www.codefactor.io/repository/github/alihaiderrizvi/facebook-in-time-and-space)
 
 
 ## Commit Guide
